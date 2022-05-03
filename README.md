@@ -1,2 +1,10 @@
-# dio-desafio-projeto-github
-Meu primeiro projeto - Git/Github DIO
+# Meu primeiro projeto GIT/GITHUB
+
+ 
+
+### Projeto desenvolvido para o desafio da DIO
+
+[Links Úteis](https://www.markdownguide.org/getting-started/)
+
+
+

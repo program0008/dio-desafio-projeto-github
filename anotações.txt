@@ -1,0 +1,19 @@
+Introdução ao Git e ao GitHub
+
+Links Úteis
+
+GIT:https://git-scm.com
+GITHUB:https://github.com
+
+Termos Úteis
+CLI: Interface de Linha de Comando ou Command-line Interface é um programa que permite que os usuarios digitem comandos de textos dando instruções a um computador para fazer funções específicas. 
+GUI: Interface Gráfica do Utilizador ou Graphical User Interface é um tipo de interface do utilizador que permite a interação com dispositivos por meio de elementos gráficos.
+
+Comandos Utilizados: Windows
+- cd = Para navegação; cd / = para levar a base do diretório; cd .. = para retroceder;
+- dir = para listar;
+- mkdir = para criar pastas (diretório);
+- del = deletar arquivos; rmdir = para remover diretório;
+- cls/ctrl+L = para limpar o terminal;
+- tab = para autocompletar;
+- echo = repete a informação (cria um arquivo).
