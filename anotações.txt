@@ -11,9 +11,39 @@ GUI: Interface Gráfica do Utilizador ou Graphical User Interface é um tipo de 
 
 Comandos Utilizados: Windows
 - cd = Para navegação; cd / = para levar a base do diretório; cd .. = para retroceder;
-- dir = para listar;
+- dir = para listar todos os arquivos do diretório;
+- ls = para listar todos os arquivos e informações do diretório;
 - mkdir = para criar pastas (diretório);
 - del = deletar arquivos; rmdir = para remover diretório;
-- cls/ctrl+L = para limpar o terminal;
+- ctrl+L = para limpar o terminal;
 - tab = para autocompletar;
-- echo = repete a informação (cria um arquivo).
+- echo = repete a informação (cria um arquivo);
+- git init = Cria um supositório vazio;
+- git add = para adicionar o arquivo a staged;
+- git commit = Dá sentido ao código, passa uma mensagem ao sistema; 
+- git status = usado para identificar arquivos que estão unstaged/staged e precisam ser commitados.
+- git push = empurra o supositório para o Github;
+- git pull = pusha o supósitório do Github.
+
+
+Realização de uma das configurações do GIT
+- git config --global user.email "digita seu e-mail usado do github" enter
+- git config --global user.name "digita seu nick usado no Github"
+
+
+Objetos Internos do GIT
+
+- Blobs;
+- Trees;
+- Commits.
+
+O blob é um objeto que contém meta dados do git (tipo, nome, tamanho).
+A tree armazena os blobs, também contem meta dados, guarda o nome do arquivo, monta a estrutura de onde estão os arquivos.
+O Commit é o objeto que vai dar sentidos as alterações feitas no GIT, contém também uma criptografia, tornando o GIT um ambiente sempre seguro para se utilizar.
+
+Chaves SSH e Tokens
+
+As chaves SSH são formas de estabelecer uma conexão segura e encriptada entre duas maquinas, nesse caso, o servidor do github e nossa máquina (notbook).
+Os tokens são usados para dar acesso aos repositórios via criptografia.
+
+
