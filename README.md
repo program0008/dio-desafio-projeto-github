@@ -4,7 +4,11 @@
 
 ### Projeto desenvolvido para o desafio da DIO
 
-[Links Úteis](https://www.markdownguide.org/getting-started/)
+Links Úteis
 
+[Markdown Guide](https://www.markdownguide.org/getting-started/)
 
+[DIO](https://web.dio.me)
+
+[Typora](https://typora.io)
 
